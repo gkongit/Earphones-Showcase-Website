@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "model": "MODEL A",
+    "topic": "Earphone1",
+    "image": "images/img1.png",
+    "price": 1999,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "6 hours",
+      "Charging": "Type-C",
+      "Compatible": "Android",
+      "Bluetooth": "5.3",
+      "Controls": "Touch"
+    }
+  },
+  {
+    "id": 2,
+    "model": "MODEL B",
+    "topic": "Earphone2",
+    "image": "images/img2.png",
+    "price": 2499,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "6 hours",
+      "Charging": "Type-C",
+      "Compatible": "Android",
+      "Bluetooth": "5.3",
+      "Controls": "Touch"
+    }
+  },
+  {
+    "id": 3,
+    "model": "MODEL C",
+    "topic": "Earphone3",
+    "image": "images/img3.png",
+    "price": 2799,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "7 hours",
+      "Charging": "Type-C",
+      "Compatible": "iOS / Android",
+      "Bluetooth": "5.3",
+      "Controls": "Touch"
+    }
+  },
+  {
+    "id": 4,
+    "model": "MODEL D",
+    "topic": "Earphone4",
+    "image": "images/img4.png",
+    "price": 2999,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "8 hours",
+      "Charging": "Type-C Fast Charging",
+      "Compatible": "iOS / Android",
+      "Bluetooth": "5.3",
+      "Controls": "Touch + Voice"
+    }
+  },
+  {
+    "id": 5,
+    "model": "MODEL E",
+    "topic": "Earphone5",
+    "image": "images/img5.png",
+    "price": 3499,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "10 hours",
+      "Charging": "Type-C Fast Charging",
+      "Compatible": "iOS / Android / Windows",
+      "Bluetooth": "5.3",
+      "Controls": "Touch + Voice"
+    }
+  },
+  {
+    "id": 6,
+    "model": "MODEL F",
+    "topic": "Earphone6",
+    "image": "images/img6.png",
+    "price": 3999,
+    "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, repellat cumque itaque explicabo impedit nihil facilis pariatur iure molestias commodi?",
+    "title": "Aerphone LD",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod maxime vitae facilis unde, id laudantium maiores nostrum rem enim in?",
+    "specs": {
+      "Usage time": "12 hours",
+      "Charging": "Wireless + Type-C",
+      "Compatible": "iOS / Android / Windows",
+      "Bluetooth": "5.3",
+      "Controls": "Touch + Voice"
+    }
+  }
+]
